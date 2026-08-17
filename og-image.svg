@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220" />
+      <stop offset="100%" stop-color="#14324F" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="80" y="80" width="72" height="72" rx="12" fill="#FFFFFF" />
+  <text x="102" y="134" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#0B1220">N</text>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#FFFFFF">News Network</text>
+  <text x="80" y="390" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#A9762F">The World. In Focus.</text>
+  <text x="80" y="560" font-family="monospace" font-size="22" fill="#9AA4B2">Breaking News · World · Pakistan · Business · Technology · Sports</text>
+</svg>
